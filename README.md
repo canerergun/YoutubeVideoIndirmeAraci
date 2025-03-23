@@ -71,6 +71,7 @@ python YoutubeVideoİndirmeAracı.py
 ## ❓ Sıkça Sorulan Sorular
 
 1️⃣ Oynatma listesi olmayan tek bir video indirirsem ne olur?
+
 • Video, seçtiğiniz ana klasörün içine kaydedilir.
 
 2️⃣ İndirme sırasında hata alıyorum, ne yapmalıyım?
